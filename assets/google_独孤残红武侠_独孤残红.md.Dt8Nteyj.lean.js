@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.B_10QUfm.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"google/独孤残红武侠/独孤残红.md","filePath":"google/独孤残红武侠/独孤残红.md"}'),a={name:"google/独孤残红武侠/独孤残红.md"};function r(s,c,n,_,p,d){return o(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};
